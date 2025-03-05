@@ -9,9 +9,8 @@ I'm **Hoshang Sheth**, a passionate **Data Scientist & ML Enthusiast** from Mumb
 
 ## 🚀 Portfolio Projects  
 - 📌 [Handwritten Letter Classification (ANN)](https://github.com/Hoshhh08/Letter-Classification-using-ANN)  
-- 📌 [Titanic Survival](https://github.com/Hoshhh08/Titanic-Survival)  
-- 📌 [Data Dashboard Web-App](https://github.com/Hoshhh08/Data-Dashboard)
-
+- 📌 [Titanic Survival](https://titanic-survived.streamlit.app/)
+- 📌 [Data Dashboard Web-App](https://data-analysis-dashboard.streamlit.app/)
 💡 Always eager to learn, build, and grow in the AI & ML space!  
 
 ### Let's Connect!  
