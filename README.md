@@ -1,6 +1,6 @@
 # Hi there! 👋  
 
-I'm **Hoshang Sheth**, a passionate **Data Scientist & ML Enthusiast** from Mumbai, India.  
+I'm **Hoshang Sheth**, an experience **Data Scientist & ML Engineer** from Mumbai, India.  
 
 🔹 Enhancing my expertise in **AI, Machine Learning, and Data Science** day by day.  
 🔹 Skilled in **Python, MySQL, TensorFlow, Scikit-Learn, and Data Visualization**.  
