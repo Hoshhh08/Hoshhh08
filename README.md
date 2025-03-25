@@ -8,14 +8,17 @@ I'm **Hoshang Sheth**, an **Experienced Data Scientist & ML Engineer** from Mumb
 🔹 Exploring freelancing opportunities on **Upwork & Fiverr**.  
 
 ## 🚀 Portfolio Projects  
-- 📌 [**Handwritten Letter Classification (ANN)**](https://github.com/Hoshhh08/Letter-Classification-using-ANN)  
-  - Built an Artificial Neural Network (ANN) model for classifying handwritten letters with high accuracy.
-  
-- 📌 [**Titanic Survival Prediction**](https://titanic-survived.streamlit.app/)  
-  - Predicts survival probabilities of Titanic passengers using ML models and Streamlit.
-  
-- 📌 [**Data Dashboard Web-App**](https://data-analysis-dashboard.streamlit.app/)  
-  - Interactive dashboard for data analysis, filtering, and visualization.
+- 📌 [Handwritten Letter Classification (ANN)](https://github.com/Hoshhh08/Letter-Classification-using-ANN)  
+  - Built an **Artificial Neural Network (ANN)** model to classify handwritten letters.  
+  - Used **TensorFlow & Keras** for training. 
+
+- 📌 [Titanic Survival Prediction](https://titanic-survived.streamlit.app/)  
+  - Predicts survival chances on the **Titanic** based on passenger data.  
+  - Trained using **Scikit-Learn** with **Logistic Regression** models.  
+
+- 📌 [Project CS](https://github.com/Hoshhh08/Project-CS)  
+  - A **cutting-edge AI/ML project** solving a real-world problem.  
+  - Uses advanced **Machine Learning algorithms** and data processing techniques.  
 
 ## 🚀 Skills
 
