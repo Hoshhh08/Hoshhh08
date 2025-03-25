@@ -16,9 +16,10 @@ I'm **Hoshang Sheth**, an **Experienced Data Scientist & ML Engineer** from Mumb
   - Predicts survival chances on the **Titanic** based on passenger data.  
   - Trained using **Scikit-Learn** with **Logistic Regression** models.  
 
-- 📌 [Project CS](https://github.com/Hoshhh08/Project-CS)  
-  - A **cutting-edge AI/ML project** solving a real-world problem.  
-  - Uses advanced **Machine Learning algorithms** and data processing techniques.  
+- 📌 [Customer Segmentation (Clustering)](https://github.com/Hoshhh08/Project-CS)  
+  - Performed **Customer Segmentation** using **unsupervised learning** techniques.  
+  - Implemented **K-Means and Hierarchical Clustering** to group customers based on purchasing behavior.  
+  - Helps businesses in **targeted marketing and personalized recommendations**.  
 
 ## 🚀 Skills
 
