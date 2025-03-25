@@ -36,8 +36,8 @@ I'm **Hoshang Sheth**, an **Experienced Data Scientist & ML Engineer** from Mumb
 
 ## 🎓 Certifications  
 
-[![Data Scientist](https://img.shields.io/badge/Data%20Scientist-March%202025-blue?style=for-the-badge)](https://drive.google.com/drive/folders/1RBvX8W3W-3J_kTXHGi39KPqTUWmL0d_0)  
-[![Data Analyst](https://img.shields.io/badge/Data%20Analyst-April%202024-green?style=for-the-badge)](https://drive.google.com/drive/folders/1AsjBhqbRiEyRRrS5ZSvhgvNa_Rzy0uBo)  
+[![Data Scientist](https://img.shields.io/badge/Data%20Scientist-March%202025-blue?style=for-the-badge)](https://drive.google.com/file/d/1JL7bSjSbNduv03cadgaMH4R98gJxufrL/view)  
+[![Data Analyst](https://img.shields.io/badge/Data%20Analyst-April%202024-green?style=for-the-badge)](https://drive.google.com/file/d/1GS4yX-rZeO179BGDo9-lE7Ycu6TrYYrk/view)    
 
 
 💡 Always eager to learn, build, and grow in the AI & ML space!  
