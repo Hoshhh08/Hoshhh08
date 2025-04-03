@@ -14,12 +14,14 @@ I'm **Hoshang Sheth**, an **Experienced Data Scientist & ML Engineer** from Mumb
 
 - 📌 [Titanic Survival Prediction](https://titanic-survived.streamlit.app/)  
   - Predicts survival chances on the **Titanic** based on passenger data.  
-  - Trained using **Scikit-Learn** with **Logistic Regression** models.  
+  - Trained using **Scikit-Learn** with **Logistic Regression** models.
+  - Using **Streamlit**, the deployed application predicts the chance of survival based on feature characteristics.  
 
 - 📌 [Customer Segmentation (Clustering)](https://github.com/Hoshhh08/Project-CS)  
   - Performed **Customer Segmentation** using **unsupervised learning** techniques.  
-  - Implemented **K-Means and Hierarchical Clustering** to group customers based on purchasing behavior.  
-  - Helps businesses in **targeted marketing and personalized recommendations**.  
+  - Implemented **K-Means Clustering** to group customers based on spending behavior.  
+  - Helps businesses in **targeted marketing and personalized recommendations**.
+  - Deployed into a working application using **Streamlit** where it takes new customer inputs and predicts segmentation labels.
 
 ## 🚀 Skills
 
