@@ -17,7 +17,7 @@ I'm **Hoshang Sheth**, an **Experienced Data Scientist & ML Engineer** from Mumb
   - Trained using **Scikit-Learn** with **Logistic Regression** models.
   - Using **Streamlit**, the deployed application predicts the chance of survival based on feature characteristics.  
 
-- 📌 [Customer Segmentation (Clustering)](https://github.com/Hoshhh08/Project-CS)  
+- 📌 [Customer Segmentation (Clustering)]([https://github.com/Hoshhh08/Project-CS](https://customer-segmentation-cluster.streamlit.app/))  
   - Performed **Customer Segmentation** using **unsupervised learning** techniques.  
   - Implemented **K-Means Clustering** to group customers based on spending behavior.  
   - Helps businesses in **targeted marketing and personalized recommendations**.
